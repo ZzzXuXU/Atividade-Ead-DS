@@ -1,0 +1,5 @@
+I:\Projeto_DS\Projeto_DS\DTO_Trident\bin\Debug\DTO_Trident.dll
+I:\Projeto_DS\Projeto_DS\DTO_Trident\bin\Debug\DTO_Trident.pdb
+I:\Projeto_DS\Projeto_DS\DTO_Trident\obj\Debug\DTO_Trident.csprojAssemblyReference.cache
+I:\Projeto_DS\Projeto_DS\DTO_Trident\obj\Debug\DTO_Trident.dll
+I:\Projeto_DS\Projeto_DS\DTO_Trident\obj\Debug\DTO_Trident.pdb

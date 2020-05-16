@@ -1,0 +1,8 @@
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\bin\Debug\DAL_Pizza.dll
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\bin\Debug\DAL_Pizza.pdb
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\bin\Debug\DTO_Trident.dll
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\bin\Debug\DTO_Trident.pdb
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\obj\Debug\DAL_Pizza.csprojAssemblyReference.cache
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\obj\Debug\DAL_Pizza.csproj.CopyComplete
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\obj\Debug\DAL_Pizza.dll
+I:\Projeto_DS\Projeto_DS\DAL_Pizza\obj\Debug\DAL_Pizza.pdb

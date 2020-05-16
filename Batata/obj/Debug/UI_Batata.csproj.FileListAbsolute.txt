@@ -1,0 +1,16 @@
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\Batata.exe.config
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\Batata.exe
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\Batata.pdb
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\UI_Batata.csprojAssemblyReference.cache
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\UI_Batata.Form1.resources
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\Batata.Properties.Resources.resources
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\UI_Batata.csproj.GenerateResource.cache
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\Batata.exe
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\Batata.pdb
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\BLL_chuchu.dll
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\DTO_Trident.dll
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\BLL_chuchu.pdb
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\DTO_Trident.pdb
+I:\Projeto_DS\Projeto_DS\Batata\obj\Debug\UI_Batata.csproj.CopyComplete
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\DAL_Pizza.dll
+I:\Projeto_DS\Projeto_DS\Batata\bin\Debug\DAL_Pizza.pdb
